@@ -136,6 +136,11 @@ platformio run --target upload
 - Button mapping fixes
 - Clockwise rotation consistency
 
+Original Firmware By
+- AleksAlcDel/Tetris-for-M5StickCPlus2 - Original M5StickC Plus2 implementation
+
+- Modified by Coreymillia
+
 ## 📄 License
 
 MIT License - see [LICENSE](LICENSE) file for details.
